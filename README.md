@@ -1,7 +1,7 @@
 # Мой первый проект
 
 
-## Преподователь 
+## Преподователь + я
 
 **Николай**
 
@@ -16,7 +16,7 @@
 
 [Пример](https://gist.github.com/Jekins/2bf2d0638163f1294637#Parag)
 
-![Картинка](C:\Users\dirbulatov\Desktop\homework\images.jpg)
+![Картинка](images.jpg)
 
 
 
